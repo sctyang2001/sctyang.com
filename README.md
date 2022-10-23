@@ -1,4 +1,4 @@
-# Home Page of Nigel Lu
-Welcome to the personal home page of Nigel Lu
+# Home Page of Scottie Yang
+Welcome to the personal home page of Scottie Yang
 
-To visit my home page, click this [link](https://nigellu.github.io/)
+To visit my home page, visit (https://www.sctyang.com/)
