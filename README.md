@@ -26,6 +26,5 @@ Scottie
 
 (Attached are the pics showcasing the website and some of the experimental features)
 ![bg_web](https://user-images.githubusercontent.com/22657009/197416530-422c7aad-bbcd-4d0e-95d1-908d796b484f.png)
-![bg_ios](https://user-images.githubusercontent.com/22657009/197416529-f2316d54-1a14-4411-84c3-07e40c2451bc.png)![page_blogs](https://user-images.githubusercontent.com/22657009/197416527-3575bd51-7683-4138-bfd8-2b2382870ebd.png)
-
+![bg_ios](https://user-images.githubusercontent.com/22657009/197416671-ea7f4771-9a2c-476d-a0d6-c78e6a582787.png)
 
