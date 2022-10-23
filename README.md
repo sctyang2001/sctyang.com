@@ -24,9 +24,9 @@ expecting to make it a journal and blog site as well.) I hope you will like it!
 
 Scottie
 
-(Attached are the pics showcasing the website and some of the experimental features)
+_(Attached are the pics showcasing the website and some of the experimental features)_
 ![bg_web](https://user-images.githubusercontent.com/22657009/197416530-422c7aad-bbcd-4d0e-95d1-908d796b484f.png)
-Visiting on MacOS, size large, font centered
+_Visiting on MacOS, size large, font centered_
 ![bg_ios](https://user-images.githubusercontent.com/22657009/197416671-ea7f4771-9a2c-476d-a0d6-c78e6a582787.png)
-Visiting on iOS, size medium, image cropped, font centered
+_Visiting on iOS, size medium, image cropped, font centered_
 
