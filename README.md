@@ -14,7 +14,7 @@ would be more manageble. I am adding more blogs to the blog function. Of course,
 step is to learn to use the server instead of Github hosting and update it using React.js 
 which I am learning now.
 
-I house most of the information in "index.html" while all setup code and apperence backup
+I housed most of the information in "index.html" while all setup code and apperence backup
 are housed in /assets/. You can find my CSS code in /assets/css/, JS code in assets/js/ and 
 vendor asset in assets/vendor/. All of the pictures I used could be found at /assets/img/, 
 and all of my blogs are hosted in /blogs/.
